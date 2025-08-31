@@ -33,7 +33,7 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hakyoung0926&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&text_color=777" width="49%" />
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hakyoung0926&show_icons=true&theme=radical)
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hakyoung0926&theme=dark&hide_border=true&background=00000000&stroke=777" width="49%" />
 </div>
 
