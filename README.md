@@ -32,10 +32,12 @@
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hakyoung0926&show_icons=true&theme=radical)
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hakyoung0926&theme=dark&hide_border=true&background=00000000&stroke=777" width="49%" />
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=hakyoung0926" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hakyoung0926&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 ## 🎯 Focus Areas
 
