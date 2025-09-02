@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hi, I'm Hakyung Kim 👨‍💻
+# Hi, I'm Hakyoung Kim 👨‍💻
 
 ### Backend Developer | 4+ Years Experience | Suwon, Korea
 </div>
